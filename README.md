@@ -1,90 +1,63 @@
-<!-- ================= OCTANE BANNER ================= -->
-
 <p align="center">
-  <img src="./octane-banner.png" width="100%" alt="Octane from Apex Legends" />
+  <img src="./octane-banner.png" width="100%" alt="Octane Apex Legends banner" />
 </p>
 
 <p align="center">
-  <a href="https://fearlesswoofless-spec.github.io/Ulang-Portfolio/">
-    🌐 Visit My Portfolio Website
-  </a>
-  |
-  <a href="https://github.com/fearlesswoofless-spec">
-    GitHub
-  </a>
+  🌐 <a href="https://fearlesswoofless-spec.github.io/Ulang-Portfolio/">Visit My Portfolio Website</a> |
+  <a href="https://github.com/fearlesswoofless-spec">GitHub</a>
 </p>
 
----
+## About Me
 
-## 👋 About Me
+Good morning, goodnight! I'm **Jan Kyle Ulang**, a fourth-year BS Computer Engineering student at **ICCT Cainta Colleges**.
 
-Good morning, goodnight! I'm **Jan Kyle Ulang**, a fourth-year **BS Computer Engineering student at ICCT Cainta Colleges**.
+I'm interested in databases, networking, and Artificial Intelligence. I have experience using Firebase and Supabase for database management, Java for application development, Python for simple coding projects, and AutoCAD for basic floor plans.
 
-I'm interested in **Databases, Networking, and Artificial Intelligence**. I have experience using Firebase and Supabase for database management, Java for application development, and Python for simple coding projects.
+I'm continuously learning and improving my skills through school projects and hands-on practice.
 
-I also have experience using AutoCAD to create basic floor plans for our school projects.
-
-I'm continuously learning and improving my skills through school projects, hands-on practice, and exploring new technologies.
-
----
-
-## 💻 Skills
+## Skills
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white" />
 </p>
 
----
-
-## 🛠️ Tools I Use
+## Tools I Use
 
 <p>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white" />
 </p>
 
----
-
-## 🗄️ Database Technologies
+## Database Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
 </p>
 
----
+## Currently Learning
 
-## 📚 Currently Learning
-
-- Database design and management
+- Database design
 - Computer networking
 - Artificial Intelligence
-- Application development using Java and Python
+- Java and Python application development
 
----
+## Interests
 
-## 🎮 Interests
-
-Gaming, exploring new technologies, learning about AI, and discovering new things in programming.
+Gaming, exploring technology, AI, and programming.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="300" alt="Gaming animation" />
+  <img src="./octane-bottom.png" width="85%" alt="Octane action artwork" />
 </p>
 
 <p align="center">
-  <i>"Faster, higher, stronger!" — Octane</i>
+  <i>“Faster, higher, stronger!” — Octane</i>
 </p>
 
 <p align="center">
   Thanks for visiting my profile! 💚
-</p>
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:39FF14,100:111111&height=100&section=footer" width="100%" alt="Neon green footer" />
 </p>
